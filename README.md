@@ -198,6 +198,8 @@ Producto ficticio: billetera digital con flujo de envío de dinero entre usuario
 
 > **Nota:** ReqRes es una API mock. Los usuarios creados con `POST /users` no persisten en el dataset real (IDs disponibles: 1–12). El comportamiento está documentado en cada caso donde esto aplica.
 
+**Evidencia de ejecución:** `docs/api-testing/api-evidence.md` (request + response por caso, exportable a PDF)
+
 | ID | Método | Endpoint | Escenario |
 |---|---|---|---|
 | TC-API-001 | POST | /users | Crear usuario → 201, body y Content-Type válidos |
