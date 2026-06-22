@@ -2,6 +2,13 @@ require("dotenv").config();
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  reporter: "mochawesome",
+  reporterOptions: {
+    reportDir: "mochawesome-report",
+    overwrite: false,
+    html: false,
+    json: true,
+  },
   e2e: {
     specPattern: [
       "cypress/e2e/**/*.cy.{js,jsx}",
@@ -12,6 +19,7 @@ module.exports = defineConfig({
     videosFolder: "evidence/videos",
     video: false,
     screenshotOnRunFailure: true,
+    experimentalServiceWorker: false,
     defaultCommandTimeout: 10000,
     viewportWidth: 1280,
     viewportHeight: 720,

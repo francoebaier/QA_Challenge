@@ -34,5 +34,13 @@
   "emptyCredentials": {
     "username": "",
     "password": ""
+  },
+  "passwordWithSpaces": {
+    "username": "standard_user",
+    "password": "secret sauce"
+  },
+  "passwordUpperCase": {
+    "username": "standard_user",
+    "password": "SECRET_SAUCE"
   }
 }

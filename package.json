@@ -11,7 +11,7 @@
     "test:headed": "cypress run --headed --browser chrome",
     "test:ui:headed": "cypress run --headed --browser chrome --spec 'cypress/e2e/**/*.cy.js'",
     "test:api:headed": "cypress run --headed --browser chrome --spec 'api/automated-tests/**/*.cy.js'",
-    "report:merge": "mochawesome-merge cypress/reports/mocha/*.json > cypress/reports/output.json",
+    "report:merge": "mochawesome-merge > cypress/reports/output.json",
     "report:generate": "marge cypress/reports/output.json --reportDir cypress/reports/html --inline",
     "report": "npm run report:merge && npm run report:generate",
     "allure:generate": "allure generate allure-results --clean -o allure-report",

@@ -1,0 +1,33 @@
+{
+  "recommendations": [
+    // Cypress
+    "cypress-io.cypress",
+
+    // Linting y formato
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+
+    // Gherkin / BDD (.feature files)
+    "CucumberOpen.cucumber-official",
+
+    // Variables de entorno
+    "mikestead.dotenv",
+
+    // Git
+    "eamodio.gitlens",
+
+    // Markdown (README, docs)
+    "yzhang.markdown-all-in-one",
+
+    // Ortografía (español + inglés)
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-spanish",
+
+    // Navegación y utilidades
+    "christian-kohler.path-intellisense",
+    "oderwat.indent-rainbow",
+
+    // Íconos
+    "pkief.material-icon-theme"
+  ]
+}
