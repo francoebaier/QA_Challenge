@@ -4,10 +4,6 @@
 
 Documentar casos de prueba detallados para validar la funcionalidad de envío de dinero entre usuarios registrados de MakersPay.
 
-## Consideración general
-
-MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. Por este motivo, los casos se encuentran diseñados para una futura ejecución.
-
 ---
 
 ## CP-001 — Transferencia exitosa con monto válido
@@ -16,7 +12,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Crítica
 **Tipo de prueba:** Funcional, positivo, end-to-end
 **Técnica:** Partición de equivalencia
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -62,7 +58,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Alta
 **Tipo de prueba:** Funcional, positivo
 **Técnica:** Análisis de valores límite
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -97,7 +93,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Alta
 **Tipo de prueba:** Funcional, positivo
 **Técnica:** Análisis de valores límite
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -132,7 +128,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Alta
 **Tipo de prueba:** Funcional, negativo
 **Técnica:** Análisis de valores límite
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -167,7 +163,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Alta
 **Tipo de prueba:** Funcional, negativo
 **Técnica:** Análisis de valores límite
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -202,7 +198,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Crítica
 **Tipo de prueba:** Funcional, negativo
 **Técnica:** Partición de equivalencia
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -238,7 +234,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Alta
 **Tipo de prueba:** Funcional, positivo
 **Técnica:** Análisis de valores límite
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -273,7 +269,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Alta
 **Tipo de prueba:** Funcional, negativo
 **Técnica:** Tabla de decisión
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -307,7 +303,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Alta
 **Tipo de prueba:** Funcional, negativo
 **Técnica:** Partición de equivalencia
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -341,7 +337,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Media
 **Tipo de prueba:** Funcional, negativo
 **Técnica:** Partición de equivalencia
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -373,7 +369,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Media
 **Tipo de prueba:** Funcional, negativo
 **Técnica:** Partición de equivalencia
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -406,7 +402,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Crítica
 **Tipo de prueba:** Concurrencia, integridad
 **Técnica:** Error guessing
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -443,7 +439,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Crítica
 **Tipo de prueba:** Integración, resiliencia
 **Técnica:** Error guessing
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -475,7 +471,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Crítica
 **Tipo de prueba:** Integración, negativo, integridad
 **Técnica:** Pruebas basadas en riesgos
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 
@@ -507,7 +503,7 @@ MakersPay es un producto ficticio y no se proporcionó un ambiente ejecutable. P
 **Prioridad:** Crítica
 **Tipo de prueba:** Seguridad, negativo
 **Técnica:** Tabla de decisión
-**Estado:** No ejecutado — producto ficticio sin ambiente disponible
+**Estado:** Pendiente de ejecución
 
 ### Precondiciones
 

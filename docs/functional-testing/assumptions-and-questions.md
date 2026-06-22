@@ -6,8 +6,6 @@ Documentar las definiciones faltantes, ambiguas o no especificadas detectadas du
 
 Estas preguntas deberían ser revisadas con Producto, Negocio o Desarrollo antes de ejecutar las pruebas.
 
-> MakersPay es un producto ficticio. Los supuestos incluidos en este documento se utilizan únicamente para completar el diseño de pruebas y no representan reglas de negocio confirmadas.
-
 ---
 
 ## 1. Dudas funcionales
@@ -361,4 +359,4 @@ Se asume la zona horaria oficial de Colombia.
 
 Todas las preguntas permanecen abiertas hasta ser confirmadas por Producto, Negocio o Desarrollo.
 
-Los supuestos documentados permiten continuar con el diseño de pruebas, pero deben revisarse antes de una ejecución real.
+Las definiciones pendientes deben confirmarse con Producto, Negocio o Desarrollo antes de iniciar la ejecución.

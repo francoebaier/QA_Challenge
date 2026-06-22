@@ -32,16 +32,14 @@ Se validará:
 
 ## 4. Fuera de alcance
 
-Debido a que MakersPay es un producto ficticio y no se proporcionó una aplicación ejecutable, no se realizarán:
+No está incluido en el alcance actual:
 
 * Pruebas ejecutadas sobre una interfaz real.
-* Consultas reales de base de datos.
-* Pruebas sobre APIs reales.
-* Pruebas reales de performance.
-* Validaciones reales de logs.
+* Consultas de base de datos.
+* Pruebas sobre APIs internas.
+* Pruebas de performance.
+* Validaciones de logs.
 * Pruebas de penetración.
-
-Los escenarios serán diseñados y documentados para una futura ejecución.
 
 ## 5. Reglas de negocio
 
@@ -205,5 +203,5 @@ Se necesitarán:
 * Estrategia de pruebas.
 * Escenarios de prueba.
 * Casos de prueba.
-* Reportes de defectos hipotéticos.
+* Reportes de defectos.
 * Registro de dudas y supuestos.

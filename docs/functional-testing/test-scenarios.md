@@ -55,4 +55,4 @@ Un usuario autenticado puede enviar dinero a otro usuario registrado utilizando 
 
 ## Consideraciones
 
-Estos escenarios fueron diseñados a partir del requerimiento funcional proporcionado. Debido a que MakersPay es un producto ficticio sin ambiente ejecutable, los escenarios quedan documentados para una futura ejecución.
+Escenarios diseñados a partir del requerimiento funcional. Pendientes de ejecución hasta que el ambiente esté disponible.
