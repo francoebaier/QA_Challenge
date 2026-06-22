@@ -33,6 +33,7 @@ module.exports = defineConfig({
   env: {
     allure: false,
     REQRES_URL: process.env.REQUEST_URL,
+    REQRES_API_KEY: process.env.REQRES_API_KEY,
     baseUrl: process.env.BASE_URL
   },
 });
